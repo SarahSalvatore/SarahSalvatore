@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there, I'm Sarah!👋
 
-<!--
-**SarahSalvatore/SarahSalvatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer based in Toronto, Canada. With a background in both graphic design and full stack development, I bring a unique perspective to creating intuitive, user-friendly interfaces and clean, efficient applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently graduated from the Full Stack Development program at York University with a focus on the MERN stack, and am constantly looking for opportunities to challenge myself and learn new technologies, tools, and frameworks.
+
+When I'm not coding, you can find me reading a good book or enjoying the great outdoors with my two huskies.
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,sass,firebase,mongodb,mysql,docker,redux,git,vscode,postman,ai,ps)](https://skillicons.dev)
+
+## Stats
+
+![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahSalvatore&show_icons=true&theme=dracula)
