@@ -11,3 +11,7 @@ When I'm not coding, you can find me reading a good book or enjoying the great o
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,sass,firebase,mongodb,mysql,docker,redux,git,vscode,postman,ai,ps)](https://skillicons.dev)
+
+## Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SarahSalvatore&theme=dark&background=000000)](https://git.io/streak-stats)
