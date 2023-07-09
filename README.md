@@ -14,4 +14,4 @@ When I'm not coding, you can find me reading a good book or enjoying the great o
 
 ## Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SarahSalvatore&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahSalvatore)](https://github.com/SarahSalvatore/github-readme-stats)
