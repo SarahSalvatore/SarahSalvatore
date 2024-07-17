@@ -2,9 +2,7 @@
 
 ## About Me
 
-I'm a Full Stack Developer based in Toronto, Canada. With a background in both graphic design and full stack development, I bring a unique perspective to creating intuitive, user-friendly interfaces and clean, efficient applications.
-
-I recently graduated from the Full Stack Development program at York University with a focus on the MERN stack, and am always looking for opportunities to challenge myself and learn new technologies, tools, and frameworks.
+I'm a Software Engineer based in Toronto, Canada. With a background in both graphic design and full stack software development, I bring a unique perspective to creating intuitive, user-friendly interfaces and clean, efficient applications.
 
 When I'm not coding, you can find me reading a good book or enjoying the great outdoors with my two huskies.
 
